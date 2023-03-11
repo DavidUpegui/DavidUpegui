@@ -11,8 +11,8 @@
 - I'm a System Engineering student in the _Universidad de Antioquia_ 🏫.
 - I love web development 💻🕸️.
 - I was born in 2002, so I'm in my tweenties 🤟
-- I train Brazilian JiuJitsu (BJJ). I'm currently blue belt <img src="bjj-removebg-preview.png" alt="BJJ image"/> 🟦.
-- I'm Colombian :colombia:
+- I train Brazilian JiuJitsu (BJJ). I'm currently blue belt 🥋🟦.
+- I'm Colombian 🇨🇴
 
 ### Things I am learning
 I want to be a fullstack developer, so I am learning a few things.
@@ -20,7 +20,7 @@ I want to be a fullstack developer, so I am learning a few things.
 - 🖥️ I'm trying to get better with React.
 - 🔙 Backend knowledges, currently starting with Node.
 
-### Techonlogies and tools
+### Technologies and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
