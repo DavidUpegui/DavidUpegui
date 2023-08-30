@@ -11,7 +11,7 @@
 - I'm a System Engineering student in the _Universidad de Antioquia_ 🏫.
 - I love web development 💻🕸️.
 - I was born in 2002, so I'm in my tweenties 🤟
-- I train Brazilian JiuJitsu (BJJ). I'm currently blue belt 🥋🟦.
+- I train Brazilian JiuJitsu (BJJ). I'm currently purple belt 🥋🟪.
 - I'm Colombian 🇨🇴
 
 ### Things I am learning
